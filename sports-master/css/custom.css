@@ -18,13 +18,16 @@
      padding: 10px 15px;
 }
  .skyblue {
-     background-image:url('../images/banner/banner5.png');
+     /* background-image:url('../images/banner/banner5.png');   */
+     background-image:url('../images/banner/ban8.jpg');
 }
  .darkerskyblue {
-     background-image:url('../images/banner/banner19.jpg');
+     background-image:url('../images/banner/ban5.jpg');
 }
  .deepskyblue {
-     background-image:url('../images/banner/banner21.jpg');
+     background-image:url('../images/banner/ban7.jpg');
+     opacity: 1;
+    /* background-image:url('../images/banner/banner21.jpg'); */
 }
  .carousel-indicators {
      bottom: 0;
@@ -957,7 +960,7 @@
      float: left;
      width: 100%;
      min-height: 500px;
-     background-image: url('../images/banner/banner18.png');
+     background-image: url('../images/banner/ban5.jpg');
      background-position: center center;
      background-repeat: no-repeat;
      background-size: cover;
